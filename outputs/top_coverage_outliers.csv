@@ -1,0 +1,51 @@
+code,name,year,antigen,antigen_description,coverage_category,coverage_category_description,target_number,doses,coverage,coverage_flag
+MAR,Morocco,2018,FLU_HAJ,Influenza travellers (incl. Hajj pilgrimage),ADMIN,Administrative coverage,32000.0,32000.0,32000.0,outlier
+FSM,Micronesia (Federated States of),2020,VAD1,"Vitamin A, 1st dose",OFFICIAL,Official coverage,,,6604.0,outlier
+AIA,Anguilla,2020,HPV_FEM,"HPV Female, final dose",ADMIN,Administrative coverage,1.0,61.0,6100.0,outlier
+MHL,Marshall Islands,2023,VAD1,"Vitamin A, 1st dose",OFFICIAL,Official coverage,,,4868.0,outlier
+GTM,Guatemala,2018,FLU_CHILD1,Influenza child age group 1,ADMIN,Administrative coverage,972514.0,293410.0,2630.0,outlier
+AGO,Angola,2014,IPV1,"Inactivated polio-containing vaccine, 1st dose",OFFICIAL,Official coverage,,,1035.0,outlier
+MSR,Montserrat,2000,POL3,"Polio, 3rd dose",ADMIN,Administrative coverage,60.0,51.0,856.0,outlier
+SYC,Seychelles,2022,HPV_FEM,"HPV Female, final dose",OFFICIAL,Official coverage,,,687.0,outlier
+SWZ,Eswatini,2021,YFV,Yellow fever vaccine,OFFICIAL,Official coverage,,,609.0,outlier
+HND,Honduras,2020,FLU_CHRONIC_PED,Influenza chronic pediatric,ADMIN,Administrative coverage,2418.0,11056.0,457.24,outlier
+BOL,Bolivia (Plurinational State of),2022,FLU_CHRONIC_ALL,Influenza chronic children and adults,ADMIN,Administrative coverage,157620.0,567834.0,360.26,outlier
+BOL,Bolivia (Plurinational State of),2022,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,157620.0,567834.0,360.26,outlier
+HND,Honduras,2022,FLU_CHRONIC_PED,Influenza chronic pediatric,ADMIN,Administrative coverage,47939.0,152639.0,318.4,outlier
+HND,Honduras,2021,FLU_CHRONIC_PED,Influenza chronic pediatric,ADMIN,Administrative coverage,48633.0,149122.0,306.63,outlier
+HND,Honduras,2021,FLU_CHRONIC_ALL,Influenza chronic children and adults,ADMIN,Administrative coverage,158767.0,477171.0,300.55,outlier
+GTM,Guatemala,2020,FLU_RESIDENT,Influenza residents living in long term care facilities,ADMIN,Administrative coverage,9477.0,27175.0,286.75,outlier
+HND,Honduras,2021,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,110134.0,310005.0,281.48,outlier
+MOZ,Mozambique,2021,VAD1,"Vitamin A, 1st dose",ADMIN,Administrative coverage,1073872.0,2921330.0,272.04,outlier
+CUB,Cuba,2015,PAB,Protection at birth (PAB) against neonatal tetanus,ADMIN,Administrative coverage,125064.0,334865.0,267.75,outlier
+HND,Honduras,2020,FLU_CHILD2,Influenza child age group 2,ADMIN,Administrative coverage,48633.0,130190.0,267.7,outlier
+HND,Honduras,2020,FLU_CHRONIC_ALL,Influenza chronic children and adults,ADMIN,Administrative coverage,112552.0,297519.0,264.34,outlier
+HND,Honduras,2020,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,110134.0,286463.0,260.1,outlier
+HND,Honduras,2019,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,110597.0,287362.0,260.0,outlier
+ZWE,Zimbabwe,2023,VAD1,"Vitamin A, 1st dose",ADMIN,Administrative coverage,462199.0,1186911.0,256.8,outlier
+MEX,Mexico,2022,FLU_OTHER,Influenza other,ADMIN,Administrative coverage,1078977.0,2732696.0,253.27,outlier
+HND,Honduras,2018,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,123935.0,297093.0,240.0,outlier
+HND,Honduras,2019,FLU_CHRONIC_ALL,Influenza chronic children and adults,ADMIN,Administrative coverage,159230.0,373106.0,234.0,outlier
+DOM,Dominican Republic,2022,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,65000.0,150532.0,231.59,outlier
+HND,Honduras,2022,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,110597.0,250694.0,226.67,outlier
+HND,Honduras,2019,FLU_CHRONIC_PED,Influenza chronic pediatric,ADMIN,Administrative coverage,48633.0,109441.0,225.0,outlier
+HND,Honduras,2018,FLU_CHRONIC_ALL,Influenza chronic children and adults,ADMIN,Administrative coverage,180478.0,391649.0,217.0,outlier
+PER,Peru,2013,VAD1,"Vitamin A, 1st dose",ADMIN,Administrative coverage,229728.8,493255.0,214.71,outlier
+PER,Peru,2013,VAD1,"Vitamin A, 1st dose",OFFICIAL,Official coverage,,,214.0,outlier
+HND,Honduras,2016,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",ADMIN,Administrative coverage,34032.0,71752.0,210.84,outlier
+HND,Honduras,2016,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",OFFICIAL,Official coverage,,,210.84,outlier
+CRI,Costa Rica,2013,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,69939.0,133270.0,190.55,outlier
+HND,Honduras,2015,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",ADMIN,Administrative coverage,39221.0,73520.0,187.45,outlier
+HND,Honduras,2015,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",OFFICIAL,Official coverage,,,187.45,outlier
+HND,Honduras,2014,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",ADMIN,Administrative coverage,39127.0,70031.0,178.98,outlier
+HND,Honduras,2014,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",OFFICIAL,Official coverage,,,178.98,outlier
+HND,Honduras,2011,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",ADMIN,Administrative coverage,31374.0,54853.0,174.84,outlier
+HND,Honduras,2011,TT2PLUS,"Tetanus toxoid-containing vaccine, 2nd and subsequent doses",OFFICIAL,Official coverage,,,174.8,outlier
+SEN,Senegal,2020,VAD1,"Vitamin A, 1st dose",ADMIN,Administrative coverage,289277.0,501292.0,173.29,outlier
+SEN,Senegal,2020,VAD1,"Vitamin A, 1st dose",OFFICIAL,Official coverage,,,173.0,outlier
+WLF,Wallis and Futuna,2016,PCV2,"Pneumococcal conjugate vaccine, 2nd dose",OFFICIAL,Official coverage,,,173.0,outlier
+MEX,Mexico,2023,FLU_OTHER,Influenza other,ADMIN,Administrative coverage,620768.0,1067580.0,171.98,outlier
+JPN,Japan,2012,JAPENC,Japanese encephalitis,OFFICIAL,Official coverage,,,171.6,outlier
+JPN,Japan,2012,JAPENC,Japanese encephalitis,ADMIN,Administrative coverage,1072000.0,1839617.0,171.6,outlier
+DOM,Dominican Republic,2023,FLU_CHRONIC_ADULT,Influenza chronic adult,ADMIN,Administrative coverage,95000.0,161875.0,170.39,outlier
+MLI,Mali,2022,VAD1,"Vitamin A, 1st dose",ADMIN,Administrative coverage,438095.0,742812.0,169.56,outlier
