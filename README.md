@@ -21,16 +21,6 @@ The goal is to design a clean, normalized database, perform data analysis, and p
 - **Power BI** – Data visualization & reporting  
 - **GitHub** – Version control & project hosting  
 
----
-
-## 📂 Project Structure
-vaccination-data-analysis/
-│
-├── scripts/                # Python scripts for data extraction & cleaning
-├── sql/                    # SQL scripts for creating & populating tables
-├── powerbi/                # Power BI report files (.pbix)
-├── screenshots/            # Dashboard & ER diagram screenshots
-├── README.md               # Project documentation
 
 
 ---
@@ -56,8 +46,6 @@ The following insights were generated:
 - **Incidence & Reported Cases** – Relationship between coverage and disease reduction.  
 - **Vaccine Introductions** – Timeline of new vaccine rollouts.  
 
-### Sample Dashboard:
-![Dashboard](screenshots/dashboard.png)
 
 ---
 
